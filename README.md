@@ -22,6 +22,11 @@ https://gallery.azure.ai/Collection/Retail-Customer-Churn-Prediction-Template-1 
 
 https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-process-email-attachments-workflow#create-blobs-for-attachments
 
+Functions
+https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
+
+
+
 ## SSIS
 
 Jun 11 2018
