@@ -1,4 +1,4 @@
-# WhiteBoard
+ # WhiteBoard
 
 
 ## PowerBi
@@ -36,4 +36,18 @@ A configuration file is used to configure account name | passwords for database 
 connection manager
 
 
+# Installation Order
 
+1. Sql Server Express
+
+2. Sql Server Management Studio
+
+3. Visual Studio Professional
+
+4. SQl Server Data Tools
+
+5. Azure Storage Explorer
+
+6. SSIS Azure Feature Pack
+
+*Updates can brick ssdt tools
