@@ -1,11 +1,26 @@
- # WhiteBoard
-
+# WhiteBoard
 
 ## PowerBi
  
 Drill down - to go down a hierarchy if available
 
-Slicer - Is just like the filter in tableau
+Slicer - Is an Interactive visualization for selecting data
+
+Filter - Visual, Page, Report, Advanced Filters (relative time, text based filtering)
+
+DrillThrough Filters allows to focus on specific information per record
+
+Grouping data
+
+__Sharing Reports__
+
+Embed in a Sharepoint Site
+
+Share Public to anyone on internet - no pro account needed (delete it to remove it from web)
+
+Share using PowerBi - does need pro account
+
+Power point - static
 
 ## Churning
 
@@ -25,8 +40,6 @@ https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-process-email-attachm
 Functions
 https://docs.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference
 
-
-
 ## SSIS
 
 Jun 11 2018
@@ -40,8 +53,9 @@ Create a Console app from Project Pane - this app is configured to run the packa
 A configuration file is used to configure account name | passwords for database connection manager and locations for file
 connection manager
 
-
 # Installation Order
+
+June 16 2018
 
 1. Sql Server Express
 
