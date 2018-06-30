@@ -33,7 +33,7 @@ https://gallery.azure.ai/Collection/Retail-Customer-Churn-Prediction-Template-1 
 
 ## Logic App
 
-06/26/2018 - creating a logic app for processing email attachments and storing it on a blob. 
+06/26/2018 - creating a logic app for processing email attachments and storing it on a Azure blob storage. 
 
 https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-process-email-attachments-workflow#create-blobs-for-attachments
 
@@ -70,3 +70,12 @@ June 16 2018
 6. SSIS Azure Feature Pack
 
 *Updates can brick ssdt tools
+
+
+## .Net
+
+.Net is a platform that allows various languages to write code and integrate into a common place
+
+.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library named Framework Class Library and provides language interoperability across several programming languages. Source: __Wikipedia
+
+
