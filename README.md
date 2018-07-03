@@ -78,4 +78,29 @@ June 16 2018
 
 .NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows. It includes a large class library named Framework Class Library and provides language interoperability across several programming languages. Source: __Wikipedia
 
+__Powershell__
+
+Using Powershell script to delete all files in the container matching a naming pattern
+
+__Script__
+$context = New-AzureStorageContext -StorageAccountName "account name" -StorageAccountKey "account key"
+
+Get-AzureStorageBlob -Container "containername" -blob *test.zip -Context $context | ForEach-Object {Remove-AzureStorageBlob -Blob $_.Name -Container "containername" -Context $context}
+
+
+https://blogs.msdn.microsoft.com/ssis/2017/01/26/run-powershell-scripts-in-ssis/
+
+## Visual Studio
+
+__Version Control with Visual Studio__
+
+2 source control options
+Team Foundation version control (TFVC)
+GIT
+
+https://docs.microsoft.com/en-us/vsts/user-guide/work-team-explorer?view=vsts
+
+
+
+
 
