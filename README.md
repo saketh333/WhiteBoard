@@ -101,6 +101,20 @@ GIT
 https://docs.microsoft.com/en-us/vsts/user-guide/work-team-explorer?view=vsts
 
 
+## Python
+Different Functions used
 
+pd.to_csv()
+pd.merge()
+pd.DataFrame()
+df.value_counts()
+df.groupby()
+df.groupby().agg()
+df.groupby().count()
+df.reset_index(drop = True)
+df.loc[row_indexer,column_indexer]=value
 
+os.listdir()
+os.chdir()
 
+string.strip()
