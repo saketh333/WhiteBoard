@@ -29,6 +29,11 @@ To understand why customers churn, it's important to understand churn drivers
 https://docs.microsoft.com/en-us/azure/machine-learning/studio/sample-experiments Azure | sample churn model
 https://gallery.azure.ai/Collection/Retail-Customer-Churn-Prediction-Template-1 | sample template
 
+https://jungleworks.com/predictive-analytics-reduce-churn/
+https://datascienceplus.com/predict-customer-churn-logistic-regression-decision-tree-and-random-forest/
+https://www.datascience.com/blog/feature-engineering-for-churn-modeling
+
+
 ## Azure Data Factory
 
 ## Logic App
