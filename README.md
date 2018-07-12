@@ -132,3 +132,12 @@ os.listdir()
 os.chdir()
 
 string.strip()
+
+
+## Congnitive Engineering
+
+While Making Reports in Power Bi will be using these 
+
+Gestalt Principles
+Encoding
+Patterns
