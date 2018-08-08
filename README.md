@@ -36,6 +36,12 @@ https://www.datascience.com/blog/feature-engineering-for-churn-modeling
 
 ## Azure Data Factory
 
+For building data pipelines that pull data from source transform and store
+
+lift and shift ssis packages using adf Integration runtime
+
+monitoring execution, triggers!
+
 ## Logic App
 
 06/26/2018 - creating a logic app for processing email attachments and storing it on a Azure blob storage. 
@@ -141,3 +147,16 @@ While Making Reports in Power Bi will be using these
 Gestalt Principles
 Encoding
 Patterns
+
+#August
+
+## Runbooks
+Running powershell scripts inside runbooks
+
+A script that takes in date and goes back three weeks and gets files from the web using wget and writes the file to azure blob storage
+
+blobstorage -force and also set blob for uploading data
+
+## Logic apps
+using recurrence trigger
+for downloading files from ftp and sftp extracting, creating blob, organizing and running data factory pipelines from logic apps
