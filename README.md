@@ -160,3 +160,11 @@ blobstorage -force and also set blob for uploading data
 ## Logic apps
 using recurrence trigger
 for downloading files from ftp and sftp extracting, creating blob, organizing and running data factory pipelines from logic apps
+
+
+Clustered and Non CLustered Indexes
+https://www.sqlshack.com/what-is-the-difference-between-clustered-and-non-clustered-indexes-in-sql-server/
+
+Clustered Indexes an ordered index on one of the table columns, order in which data is physically stored in the table
+
+Non Clustered Index referances to the data in the table and is stored separately.
