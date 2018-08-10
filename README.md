@@ -168,3 +168,9 @@ https://www.sqlshack.com/what-is-the-difference-between-clustered-and-non-cluste
 Clustered Indexes an ordered index on one of the table columns, order in which data is physically stored in the table
 
 Non Clustered Index referances to the data in the table and is stored separately.
+
+
+## SDLC (Software Development LifeCycle)
+Waterfall model - (Requirement, Design, Construction, Verification, Maintenance)
+Agile - Development of applications in Sprints where each sprint is like implementation of new feature
+DevOps - Developers, Operators - Continous Delivery
