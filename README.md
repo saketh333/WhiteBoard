@@ -174,3 +174,8 @@ Non Clustered Index referances to the data in the table and is stored separately
 Waterfall model - (Requirement, Design, Construction, Verification, Maintenance)
 Agile - Development of applications in Sprints where each sprint is like implementation of new feature
 DevOps - Developers, Operators - Continous Delivery
+
+## Feature Engineering
+https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
+https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features-sql-server
+
