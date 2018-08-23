@@ -179,3 +179,8 @@ DevOps - Developers, Operators - Continous Delivery
 https://towardsdatascience.com/understanding-feature-engineering-part-2-categorical-data-f54324193e63
 https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features-sql-server
 
+## Adding Bias | Constant Feature to the Machine Learning Algorithm
+
+https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
+
+In simple terms it is c in y = mx + c which allows the algorithm to consider new set of values based on the value of c.
