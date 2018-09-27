@@ -184,3 +184,19 @@ https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-proces
 https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks
 
 In simple terms it is c in y = mx + c which allows the algorithm to consider new set of values based on the value of c.
+
+
+## Handling missing values in the dataset
+https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1
+
+__Types of missing values__
+MCAR - Missing Completely at random
+MNAR - Missing not at random
+
+__Techniques__
+mean imputation
+median imputation
+MICE - Mean imputation by chained equations
+constant imputation
+interpolated - imputation based on the order of the values
+adding a feature that indicates the missing values
