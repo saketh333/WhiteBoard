@@ -200,3 +200,14 @@ MICE - Mean imputation by chained equations
 constant imputation
 interpolated - imputation based on the order of the values
 adding a feature that indicates the missing values
+
+
+## Projects
+Data Drop Box - Data From Zendesk and Net Suite to Azure Sql Database
+NCPDP - FTP to Azure Sql Database (Runs every Month) Automated with Logic apps and Data Factory
+Customer Churn - Feature Engineering, Feature Score, Modelling Azure Machine Learning Studio
+Stream Analytics Jobs - Event Hub to Power Bi Dashboards
+SSPrescriber Nightly - FTP to DB (Runs Every Day) Automated with Logic apps, Runbooks and Data Factory
+NPI Weekly - FTP to DB (Runs Every Week) Automated with Logic apps, Runbooks and Data Factory
+Profit Watch - FTP to Email Logic Apps and Data Factory
+Medispan - EManaged Care Report (NDC, GPI) Taken From Medispan and Vendor comparing drugs for prices and getting the cheapest one.
