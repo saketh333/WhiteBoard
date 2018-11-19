@@ -202,6 +202,37 @@ interpolated - imputation based on the order of the values
 adding a feature that indicates the missing values
 
 
+## Time Series
+
+__Patterns in a time series plot__
+
+Trends - rising or falling of the output for a time period.
+Seasonality - ex (trend repeats every year at a particular time interval)  
+Cyclicals - trends that dont repeat | follow a pattern
+
+A Time Series plot usually has a Value that is being tracked on  y-axis and time on x-axis (usually 12 month) different years are showed using different lines.
+
+__Exponential Smoothing Models_
+
+These models predict the future values by giving more weight to the most recent value and gradually decresing as the values get older
+
+__ETS__
+
+Time Series = Error (+ * ()) Trend (+ * ()) Seasonality terms
+
+We use Additivity | Multiplicative terms based on the underling data (time series decomposing plot) 
+
+for example we use __+__ if the trend/seasonality component is contant over time __*__ if the trend/seasonality have varying magnitude. 
+
+Some questions to be asked are is there a trend, if yes! is it Increasing or Decreasing or Constant then Seasonality....................
+
+
+### Simple Exponential Smooting
+
+This Uses wt = alpha(1 - alpha)^t to calculate the weights, these weights are decreasing exponentially over the period of time
+
+0 < alpha < 1, most recent t = 0 and 1 2 3....... 
+
 ## Projects
 Data Drop Box - Data From Zendesk and Net Suite to Azure Sql Database
 NCPDP - FTP to Azure Sql Database (Runs every Month) Automated with Logic apps and Data Factory
