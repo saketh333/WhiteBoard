@@ -207,12 +207,14 @@ adding a feature that indicates the missing values
 __Patterns in a time series plot__
 
 Trends - rising or falling of the output for a time period.
+
 Seasonality - ex (trend repeats every year at a particular time interval)  
+
 Cyclicals - trends that dont repeat | follow a pattern
 
 A Time Series plot usually has a Value that is being tracked on  y-axis and time on x-axis (usually 12 month) different years are showed using different lines.
 
-__Exponential Smoothing Models_
+__Exponential Smoothing Models__
 
 These models predict the future values by giving more weight to the most recent value and gradually decresing as the values get older
 
