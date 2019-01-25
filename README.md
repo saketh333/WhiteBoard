@@ -244,3 +244,34 @@ SSPrescriber Nightly - FTP to DB (Runs Every Day) Automated with Logic apps, Run
 NPI Weekly - FTP to DB (Runs Every Week) Automated with Logic apps, Runbooks and Data Factory
 Profit Watch - FTP to Email Logic Apps and Data Factory
 Medispan - EManaged Care Report (NDC, GPI) Taken From Medispan and Vendor comparing drugs for prices and getting the cheapest one.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Azure Machine Learning Studio
+__Preparing Data - Feature Engineering - Training models - Deploying models__
+
+Workspace has all the assests of the Azure Machine Learning Studio - Access control is on the workspace level
+
+Settings - DataGateways can be used to connect local hosted data to AMLS
+
+# Data Sources
+
+- (Local or AzureBlob)txt,CSV,TSV,Excel,ARFF
+- SQL Database(Azure or On Prem)
+- Web Resource
+- HDInsight, Hive Table (Big Data)
+
+Data can be imported into a data set which will be available in that workspace or in an experiment importing data using a module and coverting it into a dataset using convert to dataset module.
+
